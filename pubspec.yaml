@@ -1,0 +1,31 @@
+name: ringbearerai
+description: A Flutter app to predict the ring size from hand images using AI
+
+# The version of the app
+version: 1.0.0+1
+
+# SDK version for Flutter and Dart
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: ">=3.0.0"
+
+# Dependencies: Packages and plugins that your project uses
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.5+3  # For capturing images
+  tflite: ^1.1.2         # TensorFlow Lite package for model inference
+  path_provider: ^2.0.11  # For accessing directories on device storage
+
+# Assets: Define files or resources included in the app
+flutter:
+  assets:
+    - assets/model.tflite   # Your TensorFlow Lite model
+    - assets/images/         # Any other image assets (optional)
+
+# Optional: Define other settings like fonts, custom icons, etc.
+flutter:
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
