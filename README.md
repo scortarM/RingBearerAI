@@ -26,7 +26,6 @@ Users upload a couple of hand images to the RingBearerAI platform, and the AI pr
 
 This tool is ideal for individuals planning a surprise proposal, jewelers looking to enhance customer experience, and anyone needing an easy way to determine ring size.
 
-![Ring Image](https://upload.wikimedia.org/wikipedia/commons/6/6c/Wedding_and_engagement_ring.jpg)
 
 ## Data sources and AI methods
 
