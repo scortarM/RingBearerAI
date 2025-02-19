@@ -6,6 +6,8 @@ Final project for the Building AI course
 
 RingBearerAI is an AI-powered tool designed to determine the perfect engagement ring size from just a couple of pictures. Using advanced computer vision and deep learning, it analyzes hand proportions with precision—no guessing, no awkward questions. Whether you're planning a surprise proposal or just want an effortless way to find the right fit, RingBearerAI carries the burden for you.
 
+![ai-generated-ring-sizer-picture](/ai-generated-ring-sizer-picture.png)
+
 ## Background
 
 Choosing the right engagement ring size can be challenging, especially when planning a surprise proposal. Many people struggle with:
